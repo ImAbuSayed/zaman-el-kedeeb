@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر الليل يا سحر العيون
+> في حبك أنا عاشق ومجنون
+> شوقي لك نار تدفي الشجون
+> خلينا نعيش في هذا الكون
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
